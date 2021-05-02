@@ -1,0 +1,21 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "scss": "node-sass scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoemay/readme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoemay/readme/issues"
+  },
+  "homepage": "https://github.com/zoemay/readme#readme"
+}

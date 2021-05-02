@@ -53,3 +53,12 @@ function getItemWithId(id) {
 }
 
 getItemWithId('t_acds1');
+
+```
+
+# How to run Site
+In the terminal run the following command to build css:
+```
+npm run scss 
+```
+Open site.html in your preferred browser.
